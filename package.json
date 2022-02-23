@@ -1,0 +1,15 @@
+{
+  "name": "backstop-automator",
+  "version": "0.0.1",
+  "main": "backstop-automator.js",
+  "bin": {
+    "autoback": "backstop-automator.js"
+  },
+  "author": "Boris Schauer",
+  "license": "ISC",
+  "dependencies": {
+    "backstopjs": "^5.4.4",
+    "minimist": "^1.2.5",
+    "sitemapper": "^3.1.15"
+  }
+}
